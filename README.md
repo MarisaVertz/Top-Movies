@@ -1,7 +1,7 @@
 <h4>Top Movies</h4>
 <p>This project was one of my first HTML assignments. In this project we had to create a movie rankings page with basic HTML properties and practice list elements.</p>
 <a href="https://marisavertz.github.io/Top-Movies/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Travel-Agency-Blog/refs/heads/main/TravelAgencyBlog.png" width="300">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Top-Movies/refs/heads/main/top_movies_screenshot.png" width="300">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Top-Movies/">
